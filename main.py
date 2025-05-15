@@ -96,5 +96,5 @@ async def start(ctx):
     await ctx.channel.send(embed=embed)
 
 
-token = "OTI2ODAyMjE3MzkzMDg2NDg0.YdA90w.X6e8s-GO58mnXF3aXyikiuGGmdI"
+token = BOT_TOKEN
 bot.run(token)
